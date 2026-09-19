@@ -74,33 +74,42 @@ Let Ri = Rf = 10 KΩ
 
 **LPF:**
   **CIRCUIT DIAGRAM**
+<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 20 AM" src="https://github.com/user-attachments/assets/74e67964-e665-4eef-88d8-344637032383" />
 
 
   **MODEL GRAPH:**
+<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 21 AM" src="https://github.com/user-attachments/assets/48ae368a-7ef5-4391-bbd0-57e533924165" />
 
 
   **TABULATION:**
  
+<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 22 AM" src="https://github.com/user-attachments/assets/efd6931a-754d-45de-bfce-6d4c7fb022b3" />
 
 
 
 **HPF:**
   **CIRCUIT DIAGRAM**
+<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 22 AM (1)" src="https://github.com/user-attachments/assets/be8496f9-14ee-4633-80b7-f3bddb766f34" />
 
 
   **MODEL GRAPH:**
+<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 23 AM" src="https://github.com/user-attachments/assets/d092df05-f130-4523-bb6c-126325dfc537" />
 
 
   **TABULATION:**
+<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 23 AM (1)" src="https://github.com/user-attachments/assets/ba541345-3293-49f1-bfda-573445f2df43" />
 
   **BPF:**
   **CIRCUIT DIAGRAM**
 
+<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 24 AM" src="https://github.com/user-attachments/assets/ac3f4d50-7b3c-461f-ac15-5deb35b188d7" />
 
   **MODEL GRAPH:**
+<img width="1599" height="1200" alt="WhatsApp Image 2026-09-19 at 6 18 25 AM (2)" src="https://github.com/user-attachments/assets/e1470b19-d25f-4e31-ad2a-247ade455d6a" />
 
 
   **TABULATION:**
+<img width="1599" height="1200" alt="WhatsApp Image 2026-09-19 at 6 18 26 AM" src="https://github.com/user-attachments/assets/7dd05820-b220-4aca-8124-7040a496234f" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -113,7 +122,9 @@ Let Ri = Rf = 10 KΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+  <img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 25 AM (1)" src="https://github.com/user-attachments/assets/325262df-0f38-42c8-ba9c-6d21de47dadd" />
+
+<img width="1599" height="1200" alt="WhatsApp Image 2026-09-19 at 6 18 25 AM" src="https://github.com/user-attachments/assets/b33407fa-7315-45d3-bb17-e90b1d981325" />
 
 **RESULT:**
 Thus the Active Low pass, High pass and Band Pass Filters are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
