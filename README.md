@@ -74,42 +74,47 @@ Let Ri = Rf = 10 KΩ
 
 **LPF:**
   **CIRCUIT DIAGRAM**
-<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 20 AM" src="https://github.com/user-attachments/assets/74e67964-e665-4eef-88d8-344637032383" />
+<img width="1379" height="1013" alt="image" src="https://github.com/user-attachments/assets/e5759c9b-46a8-4c9f-9b8b-270d2da174eb" />
+
 
 
   **MODEL GRAPH:**
-<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 21 AM" src="https://github.com/user-attachments/assets/48ae368a-7ef5-4391-bbd0-57e533924165" />
+<img width="1395" height="723" alt="image" src="https://github.com/user-attachments/assets/7b591c69-3117-4275-80e4-d5ba87d0fc7e" />
 
 
   **TABULATION:**
  
-<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 22 AM" src="https://github.com/user-attachments/assets/efd6931a-754d-45de-bfce-6d4c7fb022b3" />
+<img width="1107" height="896" alt="image" src="https://github.com/user-attachments/assets/6fb0a064-e997-4eaf-b5e1-23ffb74f5479" />
+
 
 
 
 **HPF:**
   **CIRCUIT DIAGRAM**
-<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 22 AM (1)" src="https://github.com/user-attachments/assets/be8496f9-14ee-4633-80b7-f3bddb766f34" />
+<img width="1168" height="1008" alt="image" src="https://github.com/user-attachments/assets/767ff1bb-02c6-4d78-9527-0d032f733450" />
+
 
 
   **MODEL GRAPH:**
-<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 23 AM" src="https://github.com/user-attachments/assets/d092df05-f130-4523-bb6c-126325dfc537" />
+<img width="807" height="696" alt="image" src="https://github.com/user-attachments/assets/df920d26-af1c-482d-a9d7-e6ec024211ca" />
 
 
   **TABULATION:**
-<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 23 AM (1)" src="https://github.com/user-attachments/assets/ba541345-3293-49f1-bfda-573445f2df43" />
+<img width="924" height="918" alt="image" src="https://github.com/user-attachments/assets/28784172-4112-4439-9ea0-8ea9b255b76b" />
 
   **BPF:**
   **CIRCUIT DIAGRAM**
 
-<img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 24 AM" src="https://github.com/user-attachments/assets/ac3f4d50-7b3c-461f-ac15-5deb35b188d7" />
+<img width="1066" height="636" alt="image" src="https://github.com/user-attachments/assets/6fb33408-1777-480c-b872-23c2b3f98e43" />
+
 
   **MODEL GRAPH:**
-<img width="1599" height="1200" alt="WhatsApp Image 2026-09-19 at 6 18 25 AM (2)" src="https://github.com/user-attachments/assets/e1470b19-d25f-4e31-ad2a-247ade455d6a" />
+<img width="1144" height="888" alt="image" src="https://github.com/user-attachments/assets/c5554c32-c82c-4e31-8d37-a2691ecf1b7f" />
+
 
 
   **TABULATION:**
-<img width="1599" height="1200" alt="WhatsApp Image 2026-09-19 at 6 18 26 AM" src="https://github.com/user-attachments/assets/7dd05820-b220-4aca-8124-7040a496234f" />
+<img width="946" height="922" alt="image" src="https://github.com/user-attachments/assets/ef465156-7257-4d85-8bcc-018cbfc0b9e9" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -122,9 +127,11 @@ Let Ri = Rf = 10 KΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  <img width="1200" height="1599" alt="WhatsApp Image 2026-09-19 at 6 18 25 AM (1)" src="https://github.com/user-attachments/assets/325262df-0f38-42c8-ba9c-6d21de47dadd" />
+ <img width="1600" height="823" alt="image" src="https://github.com/user-attachments/assets/33ab0016-ac35-4b24-830a-0256c98bfd49" />
 
-<img width="1599" height="1200" alt="WhatsApp Image 2026-09-19 at 6 18 25 AM" src="https://github.com/user-attachments/assets/b33407fa-7315-45d3-bb17-e90b1d981325" />
+<img width="1600" height="821" alt="image" src="https://github.com/user-attachments/assets/9c22b476-e8c0-49ea-bb90-39d6cef28b07" />
+
+<img width="1600" height="848" alt="image" src="https://github.com/user-attachments/assets/a6a585ee-4cce-4fe4-b05b-99b29112f5c3" />
 
 **RESULT:**
 Thus the Active Low pass, High pass and Band Pass Filters are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
